@@ -78,3 +78,6 @@ Python is the most popular programming language, making it a critical skill for 
 The survey responses show participation from multiple countries, reflecting the global nature of the data industry.
 Work-life balance satisfaction appears relatively strong compared to salary satisfaction.
 Overall, the dashboard helps highlight important industry trends and provides a clear overview of the current state of data careers.
+
+6.Screenshot/Demos:
+https://github.com/a-di-tya/Data-Professional-Survey-Breakdown/blob/main/Screenshot%202026-03-04%20235017.png
