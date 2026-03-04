@@ -13,7 +13,7 @@ Power BI – For data cleaning, modeling, and dashboard creation
 Power Query – Used for transforming and preparing the dataset
 DAX (Data Analysis Expressions) – For calculated measures and KPIs
 Microsoft Excel – Source file for the dataset
-Data Visualization Techniques – Used to present insights clearly and interactively
+Data Visualization Techniques – Used to present insights clearly and interactively.
 
 4. Data Source:
 The dataset used in this project comes from a Data Professional Survey, which contains responses from individuals working in various data-related roles such as:
@@ -48,19 +48,19 @@ Which countries contribute the most respondents to the survey?
 
 Walkthrough of Key Visuals:
 
-1. Average Salary by Job Title
+1. Average Salary by Job Title:
 This bar chart compares the average salary across different data roles. It highlights how compensation varies between positions such as Data Scientist, Data Engineer, Data Analyst, and others.
 
-2. Country Distribution of Survey Participants
+2. Country Distribution of Survey Participants:
 A tree map visual shows the number of survey respondents from different countries including Canada, India, the United States, the United Kingdom, and others.
 
-3. Favorite Programming Language
+3. Favorite Programming Language:
 This visual displays the most preferred programming languages among data professionals. Python appears as the dominant language, followed by R and other technologies.
 
-4. Gender-based Salary Comparison
+4. Gender-based Salary Comparison:
 A donut chart visual compares the average salary between male and female respondents, providing insight into salary distribution.
 
-5. Key Performance Indicators (KPIs)
+5. Key Performance Indicators (KPIs):
 The dashboard includes important metrics such as:
 Total number of survey participants
 Average age of respondents
